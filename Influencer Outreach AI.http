@@ -1,0 +1,6 @@
+@Influencer_Outreach_AI_HostAddress = http://localhost:5289
+
+GET {{Influencer_Outreach_AI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
